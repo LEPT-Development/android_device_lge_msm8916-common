@@ -15,7 +15,7 @@
 
 
 BOARD_VENDOR := lge
-
+PRODUCT_VENDOR_KERNEL_HEADERS := device/lge/msm8916-common/kernel-headers
 LOCAL_PATH := device/lge/msm8916-common
 
 # Platform
